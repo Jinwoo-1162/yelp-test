@@ -1,0 +1,11 @@
+{
+  "name": "yelpdatabase",
+  "version": "1.0.0",
+  "description": "backend system for yelp-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jinwoo Park",
+  "license": "ISC"
+}
