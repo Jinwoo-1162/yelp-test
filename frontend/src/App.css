@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.submission-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.review-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.review-text {
+  width: 30rem;
+  height: 10rem;
+  border-radius: 10px;
+}
+
+.review-button {
+  /* width: 5rem; */
+  /* height: 2rem; */
+  /* border: white; */
+}
